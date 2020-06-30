@@ -3,7 +3,7 @@
 //  server_exp
 //
 //  Created by MAC on 30.06.2020.
-//  Copyright © 2020 Yago_Sevatariob. All rights reserved.
+//  Copyright © 2020 Yago_Sevatarion. All rights reserved.
 //
 #define BOOST_LOG_DYN_LINK 1
 #pragma once
